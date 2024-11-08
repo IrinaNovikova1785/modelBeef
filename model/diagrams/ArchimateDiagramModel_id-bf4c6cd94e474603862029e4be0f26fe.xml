@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-bf4c6cd94e474603862029e4be0f26fe">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-3e215830f4824543a577194aee1d9dd5"
+      name="Клиент"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="84"
+        width="1585"
+        height="313"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-6a37f862a1794375af38097518059333"
+      name="Повар"
+      textAlignment="1">
+    <bounds
+        x="156"
+        y="468"
+        width="1585"
+        height="313"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2391534425af438eb430c5713d9eed11">
+      <bounds
+          x="120"
+          y="84"
+          width="145"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-b2e71a6d4fae4fe2b27702dd23b834d6.xml#id-b2e71a6d4fae4fe2b27702dd23b834d6"/>
+    </children>
+  </children>
+</archimate:ArchimateDiagramModel>
