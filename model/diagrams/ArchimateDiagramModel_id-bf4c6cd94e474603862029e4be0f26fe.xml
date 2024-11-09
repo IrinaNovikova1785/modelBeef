@@ -378,16 +378,4 @@
           href="Path_id-119628cb4fee4c4c805a5528e2cbe9fb.xml#id-119628cb4fee4c4c805a5528e2cbe9fb"/>
     </children>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bcaffdce9a824d9684f8ade74cc97fc2">
-    <bounds
-        x="864"
-        y="1056"
-        width="145"
-        height="85"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-29677cd34aff4a08bca3d5e09eb32ace.xml#id-29677cd34aff4a08bca3d5e09eb32ace"/>
-  </children>
 </archimate:ArchimateDiagramModel>
