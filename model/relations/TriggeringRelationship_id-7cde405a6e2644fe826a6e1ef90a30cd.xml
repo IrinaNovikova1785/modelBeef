@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ДА"
+    id="id-7cde405a6e2644fe826a6e1ef90a30cd">
+  <source
+      xsi:type="archimate:Path"
+      href="Path_id-3c32c087a40748fea9811c06b5263f9a.xml#id-3c32c087a40748fea9811c06b5263f9a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e63e794a8a8445a08ec12651f48a23c2.xml#id-e63e794a8a8445a08ec12651f48a23c2"/>
+</archimate:TriggeringRelationship>
