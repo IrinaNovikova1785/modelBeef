@@ -237,9 +237,9 @@
           source="id-8ff8e9ca0bee4884a8b04ef01439fe3a"
           target="id-3de932e07c0e4b1abc66f7adc13f58bd">
         <bendpoints
-            startX="6"
+            startX="5"
             startY="252"
-            endX="-186"
+            endX="-162"
             endY="-30"/>
         <bendpoints
             startX="186"
