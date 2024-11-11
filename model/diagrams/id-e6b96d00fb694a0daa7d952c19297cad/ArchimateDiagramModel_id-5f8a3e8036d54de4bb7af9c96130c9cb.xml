@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="подразделения"
+    id="id-5f8a3e8036d54de4bb7af9c96130c9cb">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ca76b8fb6f9343f381a21f92831f799d"
+      textAlignment="1">
+    <bounds
+        x="321"
+        y="121"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-d2d6b1a2c2fe4ac09fb1f82b92dcff41.xml#id-d2d6b1a2c2fe4ac09fb1f82b92dcff41"/>
+  </children>
+</archimate:ArchimateDiagramModel>
