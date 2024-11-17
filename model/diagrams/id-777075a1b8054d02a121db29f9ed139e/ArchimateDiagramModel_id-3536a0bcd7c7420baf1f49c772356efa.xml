@@ -1315,6 +1315,15 @@
       id="id-e3b41008d3af499ebd43189e6dcd943c"
       targetConnections="id-59084c17ae0d4efaaecd95c65f353e78"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e0e17b8c34284b70ba874f08f5fb66aa"
+        source="id-e3b41008d3af499ebd43189e6dcd943c"
+        target="id-d6a1c70b5f5947fba04ce091448a24bd">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-8fb6c9c1dd3d490983e1f84914dc0399.xml#id-8fb6c9c1dd3d490983e1f84914dc0399"/>
+    </sourceConnections>
     <bounds
         x="1043"
         y="360"
@@ -1429,15 +1438,6 @@
     <features
         name="iconColor"
         value="#ff8080"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e0e17b8c34284b70ba874f08f5fb66aa"
-        source="id-2e01581d081b44cd9c248ce623ee7543"
-        target="id-d6a1c70b5f5947fba04ce091448a24bd">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-8fb6c9c1dd3d490983e1f84914dc0399.xml#id-8fb6c9c1dd3d490983e1f84914dc0399"/>
-    </sourceConnections>
     <bounds
         x="2004"
         y="282"
